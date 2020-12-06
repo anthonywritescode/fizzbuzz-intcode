@@ -1,3 +1,5 @@
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/anthonywritescode/fizzbuzz-intcode/master.svg)](https://results.pre-commit.ci/latest/github/anthonywritescode/fizzbuzz-intcode/master)
+
 fizzbuzz-intcode
 ================
 
